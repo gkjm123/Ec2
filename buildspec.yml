@@ -1,4 +1,0 @@
-artifacts:
-  files:
-    - appspec.yml # code-deploy를 위해
-    - build/libs/*.jar
