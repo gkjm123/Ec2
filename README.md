@@ -1,4 +1,4 @@
-### AWS 의 EC2, S3, Code Deploy 그리고 깃허브의 WorkFlow 를 이용한 자동 배포 시스템 구현
+### AWS 의 EC2, S3, Code Deploy 그리고 깃허브의 WorkFlow 를 이용한 자동배포 시스템
 
 1. master 브렌치에 push 또는 merge 시 WorkFlow 에서 감지하여 빌드하고 zip 파일로 만들어 S3 로 전송
 2. WorkFlow 가 Code Deploy 에게 배포를 요청
